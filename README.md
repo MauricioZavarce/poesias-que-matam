@@ -37,13 +37,6 @@ poesias-que-matam/
 - Link: a.co/d/00STYSd5
 - Preço: R$15,31
 
-## Como subir no GitHub
-
-1. Crie repositório: `poesias-que-matam`
-2. Upload desta pasta
-3. Ative GitHub Pages em Settings > Pages > Source: main / root ou /landing
-4. Para Netlify: arraste a pasta `landing` no deploy
-
 ## Tecnologias
 - HTML5, CSS3, Playfair Display + Raleway
 - Design editorial P&B premium
